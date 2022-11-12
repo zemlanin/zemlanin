@@ -2,4 +2,4 @@
 
 - <a rel="nofollow me" href="https://zemlan.in">Blog</a>
 - <a rel="nofollow me" href="https://anton.codes">About</a>
-- <a rel="nofollow me" href="https://mastodon.devua.club/@zemlanin">Mastodon</a>
+- <a rel="nofollow me" href="https://devua.club/@zemlanin">Mastodon</a>
